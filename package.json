@@ -1,0 +1,19 @@
+{
+  "name": "nuevorepovisualsc1",
+  "version": "1.0.0",
+  "description": "node repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioroig/NuevoRepoVisualSC1.git"
+  },
+  "author": "Antonio Roig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonioroig/NuevoRepoVisualSC1/issues"
+  },
+  "homepage": "https://github.com/antonioroig/NuevoRepoVisualSC1#readme"
+}
